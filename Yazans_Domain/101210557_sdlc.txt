@@ -4,14 +4,14 @@ It encompasses many different fields and while learning how to become a DevOps e
 
 DevOps Engineer titles:
 
-DevOps evangelist
-Release Manager
-Automation Expert
-Software Devloper/Tester
-Quality Assurance
-Security Engineer
-Product Manager
-Data Analyst
+DevOps evangelist: principal officer responsible for implementation of devops itself.
+Release Manager: In chage of releasing new features and ensuring their post launch stability.
+Automation Expert: Responsible for automating tasks big and small.
+Software Devloper:Tester: Creates and tests software.
+Quality Assurance: Ensures that the software or product meets it's requirements set out before hand.
+Security Engineer: Constantly monitoring the security and health of the product.
+Product Manager: Collaborating with the dev team to ensure requirements are met throughout a sprint.
+Data Analyst: In charge of utilizing both exisiting data and user data to analyze patterns that impact user experience or design concerns.
 
 
 (As one can see, DevOps is more of a methodology rather than a job title, since all of the above fall under the umbrella of DevOps)
