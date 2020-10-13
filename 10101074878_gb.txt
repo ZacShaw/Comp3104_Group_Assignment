@@ -1,6 +1,0 @@
-Devops is important because it
-
--Shortens development cycles
--reduces deployment failures
--improves ease of communication and collaboration
--reduces overall costs of IT and support
