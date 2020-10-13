@@ -2,3 +2,16 @@ DevOps engineers work alongside the developers and IT staff to oversee and ensur
 side of things and on the other side being able to automate many tedious tasks by scripting, allowing for a better workflow for all parties involved. It is also regarded as one of the most diverse fields due to how large it is.
 It encompasses many different fields and while learning how to become a DevOps engineer is difficult, it is one of the most rewarding and high demand jobs out there.
 
+DevOps Engineer titles:
+
+DevOps evangelist
+Release Manager
+Automation Expert
+Software Devloper/Tester
+Quality Assurance
+Security Engineer
+Product Manager
+Data Analyst
+
+
+(As one can see, DevOps is more of a methodology rather than a job title, since all of the above fall under the umbrella of DevOps)
