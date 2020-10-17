@@ -2,3 +2,5 @@ Devops
 Comp 3104
 
 Professor: Pritesh Patel
+
+Class time: Wednesday 6-9pm
