@@ -1,1 +1,3 @@
 Course: Comp3104 - Devops
+
+Professor: Pritesh Patel
