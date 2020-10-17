@@ -2,3 +2,12 @@ George Brown College
 https://www.georgebrown.ca/
 Casa Loma Campus location:
 	160 Kendal Avenue
+
+Hours: 
+Saturday	8a.m.–6p.m.
+Sunday		8a.m.–5p.m.
+Monday		7a.m.–10:30p.m.
+Tuesday		7a.m.–10:30p.m.
+Wednesday	7a.m.–10:30p.m.
+Thursday	7a.m.–10:30p.m.
+Friday		7a.m.–10:30p.m.
