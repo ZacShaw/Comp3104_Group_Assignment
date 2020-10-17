@@ -4,3 +4,11 @@ Comp 3104
 Professor: Pritesh Patel
 
 Class time: Wednesday 6-9pm
+
+Grades: 
+Lecture Quizzes: 8x1%
+Lab Exercises: 8x2%
+Assignment: 10%
+Assignment: 16%
+Mid-term: 20%
+Final: 30%
