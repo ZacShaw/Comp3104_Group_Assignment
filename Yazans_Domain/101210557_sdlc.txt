@@ -1,0 +1,17 @@
+DevOps engineers work alongside the developers and IT staff to oversee and ensure safe delivery and code releases. They are usually in charge of the deployment and network operations
+side of things and on the other side being able to automate many tedious tasks by scripting, allowing for a better workflow for all parties involved. It is also regarded as one of the most diverse fields due to how large it is.
+It encompasses many different fields and while learning how to become a DevOps engineer is difficult, it is one of the most rewarding and high demand jobs out there.
+
+DevOps Engineer titles:
+
+DevOps evangelist: principal officer responsible for implementation of devops itself.
+Release Manager: In chage of releasing new features and ensuring their post launch stability.
+Automation Expert: Responsible for automating tasks big and small.
+Software Devloper:Tester: Creates and tests software.
+Quality Assurance: Ensures that the software or product meets it's requirements set out before hand.
+Security Engineer: Constantly monitoring the security and health of the product.
+Product Manager: Collaborating with the dev team to ensure requirements are met throughout a sprint.
+Data Analyst: In charge of utilizing both exisiting data and user data to analyze patterns that impact user experience or design concerns.
+
+
+(As one can see, DevOps is more of a methodology rather than a job title, since all of the above fall under the umbrella of DevOps)
